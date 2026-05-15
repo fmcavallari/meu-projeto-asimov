@@ -1,3 +1,3 @@
-mensagem = "Hello, World!"
+mensagem = "Hello, World! bora estudar Python!"
 print(mensagem)
-print('ola!')
+print('ola! mundo!')
