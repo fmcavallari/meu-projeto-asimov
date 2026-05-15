@@ -1,3 +1,5 @@
-mensagem = "Hello, World! bora estudar Python!"
+mensagem = "Olá, Git e VSCode!"
 print(mensagem)
-print('ola! mundo!')
+def saudacao(nome):
+    print(f"Seja bem-vindo, {nome}!")
+saudacao("Asimover")
